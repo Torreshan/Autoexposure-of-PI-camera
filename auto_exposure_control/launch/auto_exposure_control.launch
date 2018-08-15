@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+
+<launch>
+
+  <node name="auto_exposure_control" pkg="auto_exposure_control" type="auto_exposure_control.py" respawn="true">
+  </node>
+  
+</launch>
