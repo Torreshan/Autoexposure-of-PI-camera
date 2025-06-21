@@ -1,7 +1,4 @@
 # Autoexposure-of-PI-camera
-https://img.shields.io/badge/python-3.8+-blue.svg
-https://img.shields.io/badge/opencv-4.5+-blue.svg
-
 An automatic camera exposure control system implementing a PI controller with real-time image histogram analysis. Dynamically adjusts exposure parameters to maintain optimal image brightness across varying lighting conditions.
 
 ### Dependencies
